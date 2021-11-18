@@ -1,0 +1,11 @@
+name: geoeff_2020
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python==3.9.4
+  - pip:
+      - -r requirements.txt
+

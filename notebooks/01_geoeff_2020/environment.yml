@@ -5,7 +5,8 @@ channels:
   - defaults
 
 dependencies:
-  - python==3.9.4
+  - python==3.9.5
+  - dask==2021.09.0
   - pip:
       - -r requirements.txt
 

@@ -12,3 +12,4 @@ astropy==4.3.1
 h5py==3.1.0
 PIL==8.3.1
 wandb==0.12.1
+celluloid==0.2.0

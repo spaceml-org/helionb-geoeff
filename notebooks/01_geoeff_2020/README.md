@@ -10,7 +10,7 @@
 
 **Results**: We develop a deep learning pipeline consisting of a Gated Recurrent Unit (GRU) → Multilayer Perceptron (MLP) → Spherical Harmonic Layer (SHL). We summarize 2-hours of solar wind conditions measured at L1 point (from the OMNI dataset) using the GRU cell  to generate a summary "hidden state" of the solar wind measurements. This state is then passed to a fully-connected layer of MLP to generate a vector of “coefficients”. These coefficients are then contracted with a basis of spherical harmonics which is generated every forward pass depending on the locations of the different stations which have measurements. The output after the contraction operation is a set of magnetic perturbation measurements at each station location. This scheme is diagrammatically summarized in Fig. 1.
 
-![img](./figure_one.pdf)
+![img](./figure_one.png)
 
 **Figure 1**: The ground magnetic perturbation scheme using Deep learning with spherical harmonics. 
 

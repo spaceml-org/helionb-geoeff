@@ -3,11 +3,7 @@
 
 ## Notebooks:
 * **01: Geo-effectiveness (2020)**
-  
-  * <overview>
-  
-    
-
+  * A full-earth ground magnetic perturbation forecasting model using deep learning.
 
 ## Interacting with each notebook:
 

@@ -2,7 +2,7 @@
 
 *A full-earth ground magnetic perturbation forecasting model using deep learning*
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/spaceml-org/helionb-geoeff/blob/main/notebooks/01_geoeff_2020/storm_forecast.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spaceml-org/helionb-geoeff/blob/main/notebooks/01_geoeff_2020/storm_forecast.ipynb)
 
 ### Overview
 

@@ -14,7 +14,7 @@
 
 **Figure 1**: The ground magnetic perturbation scheme using Deep learning with spherical harmonics. 
 
-**This work has been submitted to a peer-reviewed journal** 
+> **Cite this work as** :  Upendran, V., Tigas, P., Ferdousi, B., Bloch, T., Cheung, M. C. M., Ganju, S., et al. (2022). Global geomagnetic perturbation forecasting using Deep Learning. Space Weather, 20, e2022SW003045. https://doi.org/10.1029/2022SW003045 
 
 ---
 
